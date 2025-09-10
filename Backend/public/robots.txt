@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /*?*
+Disallow: /*.json$
+Disallow: /*.pdf$
+Sitemap: https://neuro-meet.com/sitemap.xml
+Host: neuro-meet.com 
